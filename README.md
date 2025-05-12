@@ -1,2 +1,1 @@
-# projetos
-Meus projetos
+# Diretório exclusivo para os meus projetos
